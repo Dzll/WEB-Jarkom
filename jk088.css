@@ -1,0 +1,53 @@
+body {
+    background-color: #ffff;
+}
+.jumbotron{
+	background-color: #f4f5f7;
+	font-family:consolas;
+}
+.jar{
+	font-family:consolas;
+	font-size:40px;
+}
+.jar2{
+	font-family:consolas;
+	font-size:17px;
+}
+#myCarousel {
+	margin:5%;
+}
+#tx{
+	padding:3%;
+}
+#txt{
+	padding:1%;
+}
+#homeJar{
+	background-color : #f4f5f7;
+}
+.gambar{
+	margin:22%;	
+	padding:7px;
+	border:2px solid #021a40;
+	border-radius:5px;
+	width:60%;
+	height:50%;
+}
+.panel {
+	margin:5.5%;
+}
+.alert{
+	background-color:#f4f5f7;
+	color:#0960ad;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   height:5%;
+   width: 100%;
+   background-color: #f4f5f7;
+   color: black;
+   padding:15px;
+   text-align: left;
+}
